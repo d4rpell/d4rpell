@@ -1,4 +1,4 @@
-<img src="https://github.com/d4rpell/d4rpell/blob/main/assets/giphy.gif" height="506" width="835">
+<img src="https://github.com/d4rpell/d4rpell/blob/main/assets/giphy.gif">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+d4rpell;Red+Teamer+%7C+Pentester+Enthusiast)](https://git.io/typing-svg)
 
