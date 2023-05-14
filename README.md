@@ -4,7 +4,7 @@
 
 ## 👱 About Me
 - Pentester Student
-- CTF Player on [HacktheBox](https://app.hackthebox.com/profile/376167)
+- (Sometimes) CTF Player on [HacktheBox](https://app.hackthebox.com/profile/376167)
 - I have a [blog](https://d4rpell.github.io/)
 
 ## 👨‍💻 Skills
