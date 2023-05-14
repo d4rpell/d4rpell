@@ -17,5 +17,5 @@
 
 ## 📥 Social Media
 <p align="left">
-<a href="https://github.com/d4rpell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="d4rpell" height="30" width="40" /></a><a href="https://app.hackthebox.com/profile/376167" target="blank"><img align="center" src="https://www.svgrepo.com/show/331423/hack-the-box.svg" alt="d4rpell" height="30" width="40" /></a>
+<a href="https://twitter.com/d4rpell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="d4rpell" height="30" width="40" /></a><a href="https://app.hackthebox.com/profile/376167" target="blank"><img align="center" src="https://www.svgrepo.com/show/331423/hack-the-box.svg" alt="d4rpell" height="30" width="40" /></a>
 </p>
