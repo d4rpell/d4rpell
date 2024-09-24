@@ -11,9 +11,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"> <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/c-sharp.svg" width="40" height="40"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"> <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/microsoft-windows.svg" width="40" height="40"> <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/kali-dragon-icon.svg" width="40" height="40">
 
 ## 📕 Latest Blog Posts
-- [🔥Creating my own VPN](https://d4rpell.github.io/Creating-My-Own-VPN)
+- [🔥Breaking into a Company using RDP (Technique used by CyberCriminals)](https://d4rpell.github.io/Breaking-Company-RDP(Updated-&-Used-Way))
+- [Creating my own VPN](https://d4rpell.github.io/Creating-My-Own-VPN)
 - [Breaking-Company-RDP](https://d4rpell.github.io/Breaking-Company-RDP)
-- [How to bypass Windows 10 Login Panel](https://d4rpell.github.io/Bypassing-Windows-10)
 
 ## 📥 Social Media
 <p align="left">
