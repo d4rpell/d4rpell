@@ -1,21 +1,50 @@
-<img src="https://github.com/d4rpell/d4rpell/blob/main/assets/gif.gif">
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+d4rpell;Red+Teamer+%7C+Pentester+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=00F5D4&center=true&vCenter=true&width=650&lines=Rootkits+Not+Found;No+Logs%2C+No+Crime;Breaking+things+so+you+don%27t+have+to;Threat+intel+by+night%2C+platform+eng+by+day)](https://git.io/typing-svg)
 
-## 👱 About Me
-- Pentester Student
-- (Sometimes) CTF Player on [HacktheBox](https://app.hackthebox.com/profile/376167)
-- I have a [blog](https://d4rpell.github.io/)
+**Security & Platform Engineer**
 
-## 👨‍💻 Skills
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"> <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/c-sharp.svg" width="40" height="40"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"> <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/microsoft-windows.svg" width="40" height="40"> <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/kali-dragon-icon.svg" width="40" height="40">
+<span style="color:#e8590c">Kubernetes/OpenShift Hardening · Threat Intelligence · Security Research</span>
+
+</div>
+
+---
+
+## `// PROJECTS.HIGHLIGHT`
+
+### 🔍 **[Vuln-Reporter](https://github.com/dramlin1010/Vuln-Reporter)**
+
+```
+$ Vulnerability monitoring system, running in production at a Spanish bank
+$ Tracks CVEs from Kubernetes and Red Hat feeds
+$ Alerts the platform team in real time via Microsoft Teams
+```
+
+### 🕵️ **[InfraRecon](https://github.com/d4rpell/InfraRecon)**
+
+```
+$ Shodan + Netlas + HTTP fingerprinting recon pipeline
+$ Built to track infostealer C2 panels
+$ Identified 120+ active panels across 35 countries in a 2-week scan
+```
+
+---
+
+## `// STACK`
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![OpenShift](https://img.shields.io/badge/-OpenShift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white)
+
+---
 
 ## 📕 Latest Blog Posts
-- [🔥Breaking into a Company using RDP (Technique used by CyberCriminals)](https://d4rpell.github.io/Breaking-Company-RDP(Updated-&-Used-Way))
+- [🔥Gaining Access Via RCE to a Multi-Million Dollar Company](https://d4rpell.github.io/Gaining-Access-Via-RCE-to-MultiMillion-Dollar-Company)
 - [Creating my own VPN](https://d4rpell.github.io/Creating-My-Own-VPN)
-- [Breaking-Company-RDP](https://d4rpell.github.io/Breaking-Company-RDP)
 
-## 📥 Social Media
-<p align="left">
-<a href="https://twitter.com/d4rpell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="d4rpell" height="30" width="40" /></a><a href="https://app.hackthebox.com/profile/376167" target="blank"><img align="center" src="https://www.svgrepo.com/show/331423/hack-the-box.svg" alt="d4rpell" height="30" width="40" /></a>
-</p>
+---
+
+## `// CONNECT`
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-ram%C3%ADrez-linares-ba761629b/)
