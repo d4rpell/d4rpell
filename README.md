@@ -12,17 +12,22 @@
 
 ## `// PROJECTS.HIGHLIGHT`
 
-### 🔍 **[Vuln-Reporter](https://github.com/dramlin1010/Vuln-Reporter)**
-
+### 🧵 [Ariadne](https://github.com/d4rpell/Ariadne)
+```text
+$ Evidence-first CVE triage for Kubernetes and OpenShift
+$ Deterministic offline evaluation with auditable, reproducible evidence
+$ Built in Go with strict validation, SHA-256 evidence bundles and tested JSON/HTML reporting
 ```
+
+### 🔍 [Vuln-Reporter](https://github.com/d4rpell/Vuln-Reporter)
+```text
 $ Vulnerability monitoring system, running in production at a Spanish bank
 $ Tracks CVEs from Kubernetes and Red Hat feeds
 $ Alerts the platform team in real time via Microsoft Teams
 ```
 
-### 🕵️ **[InfraRecon](https://github.com/d4rpell/InfraRecon)**
-
-```
+### 🕵️ [InfraRecon](https://github.com/d4rpell/InfraRecon)
+```text
 $ Shodan + Netlas + HTTP fingerprinting recon pipeline
 $ Built to track infostealer C2 panels
 $ Identified 120+ active panels across 35 countries in a 2-week scan
