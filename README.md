@@ -19,7 +19,7 @@ $ Deterministic offline evaluation with auditable, reproducible evidence
 $ Built in Go with strict validation, SHA-256 evidence bundles and tested JSON/HTML reporting
 ```
 
-### 🔍 [Vuln-Reporter](https://github.com/d4rpell/Vuln-Reporter)
+### 🔍 [Vuln-Reporter](https://github.com/dramlin1010/Vuln-Reporter)
 ```text
 $ Vulnerability monitoring system, running in production at a Spanish bank
 $ Tracks CVEs from Kubernetes and Red Hat feeds
