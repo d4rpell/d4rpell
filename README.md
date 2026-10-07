@@ -16,7 +16,7 @@
 ```text
 $ Read-only audit of ServiceAccount privilege-escalation paths in Kubernetes/OpenShift
 $ Chains RBAC/SCC grants to cluster-admin, node or Secrets, with evidence per hop
-$ Proposes remediation cuts verified against the model. Offline-first, deterministic, single Go binary
+$ Model-verified remediation cuts. Offline-first, single Go binary
 ```
 
 ### 🧵 [Ariadne](https://github.com/d4rpell/Ariadne)
