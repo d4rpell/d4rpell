@@ -12,6 +12,13 @@
 
 ## `// PROJECTS.HIGHLIGHT`
 
+### 🕸️ [NHI-reach](https://github.com/d4rpell/NHI-reach) `🚧 in progress`
+```text
+$ How far can a non-human identity reach? Read-only audit of ServiceAccount privilege-escalation paths in Kubernetes/OpenShift
+$ Chains RBAC/SCC grants toward cluster-admin, node control and sensitive Secrets, with SHA-256 evidence per hop
+$ Proposes remediation cuts verified against the model. Offline-first, deterministic, single Go binary
+```
+
 ### 🧵 [Ariadne](https://github.com/d4rpell/Ariadne)
 ```text
 $ Evidence-first CVE triage for Kubernetes and OpenShift
