@@ -12,7 +12,7 @@
 
 ## `// PROJECTS.HIGHLIGHT`
 
-### 🕸️ [NHI-reach](https://github.com/d4rpell/NHI-reach) `🚧 in progress`
+### 🕸️ [NHI-reach](https://github.com/d4rpell/NHI-reach)
 ```text
 $ Read-only audit of ServiceAccount privilege-escalation paths in Kubernetes/OpenShift
 $ Chains RBAC/SCC grants to cluster-admin, node or Secrets, with evidence per hop
